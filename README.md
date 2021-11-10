@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thanhnhile
 - 👀 I’m interested in web and game programing
 - 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
 <!---
